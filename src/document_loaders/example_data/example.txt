@@ -1,0 +1,1 @@
+this is an example text to see how langchain loads raw text.
