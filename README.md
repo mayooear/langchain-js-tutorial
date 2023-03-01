@@ -1,6 +1,6 @@
 # Langchain Tutorial For Typescript and Javascript Developers
 
-- Youtube tutorial video:
+- [LangChain typescript tutorial video](https://www.youtube.com/watch?v=bH722QgRlhQ)
 - The visual explanation diagram is in the `visual-image` folder.
 
 ## What is Langchain?
@@ -32,13 +32,12 @@ To run a specific example in the repo, simply run the bash script below and repl
 
 For example:
 
-`npm run start:dev ./prompts/basic.ts`
+`npm run start ./prompts/basic.ts`
 
 ## Resources
 
 - [LangChainDocs](https://hwchase17.github.io/langchainjs/docs/overview)
 - [PineconeDocs](https://docs.pinecone.io/docs/node-client)
-- [Link to youtube channel or website]
 
 ## Credit
 
