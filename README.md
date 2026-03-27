@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This project is no longer actively maintained and is kept here for reference.
+> Please do not expect responses to new issues or pull requests.
+
 # Langchain Tutorial For Typescript and Javascript Developers
 
 - [LangChain typescript tutorial video](https://www.youtube.com/watch?v=bH722QgRlhQ)
